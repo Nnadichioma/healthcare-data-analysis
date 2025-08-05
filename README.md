@@ -62,7 +62,7 @@ Created an interactive Excel dashboard using:
 - **Donut Charts** for comparing lifestyle factors and disease history
 - **Column Charts** for tier-wise hospital cost analysis
 - **Line Charts** showing trends by age (e.g., BMI, blood sugar, hospital charges)
-
+![Healthcare Dashboard](images/healthcare_data.png)
 ---
 
 ## 🧠 Learnings & Takeaways
