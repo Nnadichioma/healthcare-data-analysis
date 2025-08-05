@@ -80,6 +80,6 @@ Used for educational and non-commercial purposes only.
 ---
 
 ## 📫 Contact
-**[Chioma Nnadi]**
-📧 [Email](nnadicvictoria@gmail.com)
-🔗 [Linkedin](https://www.linkedin.com/in/nnadichioma/)
+- **[Chioma Nnadi]**
+- 📧 [Email](nnadicvictoria@gmail.com)
+- 🔗 [Linkedin](https://www.linkedin.com/in/nnadichioma/)
